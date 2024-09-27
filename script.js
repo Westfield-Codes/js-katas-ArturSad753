@@ -3,7 +3,7 @@
 
 /* Var Alert */
 // make an integer variable for age, set it equal to your age
-var age = "13";
+var age = "14";
 // make a string variable for name, set it to your name
 var name ="Artur";
 // alert name is age years old
